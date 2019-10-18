@@ -1,0 +1,3 @@
+Licensed under the ISC License. See LICENSES/LicenseRef-ISC-curiu.txt for details.
+See LICENSES/*.txt for additional licenses.
+Use https://github.com/fsfe/reuse-tool to check for detailed licensing information.
