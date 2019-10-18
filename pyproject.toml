@@ -1,0 +1,9 @@
+# SPDX-FileCopyrightText: 2019 The curiu authors
+#
+# SPDX-License-Identifier: LicenseRef-ISC-curiu
+
+
+[tool.black]
+line-length = 96
+target-version = ['py37']
+exclude = '/(versioneer|_version)\.py$'
