@@ -1,0 +1,4 @@
+# SPDX-FileCopyrightText: 2019 The curiu authors
+# SPDX-License-Identifier: LicenseRef-ISC-curiu
+
+src/curiu/_version.py export-subst
